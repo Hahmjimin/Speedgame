@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react_project/OneToFifty/precache-manifest.f67376b9b9c4892e2c659df2fe75b180.js"
+  "/react_project/precache-manifest.2443473673c3b7555c0fb7728b1a9c05.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react_project/OneToFifty/index.html", {
+workbox.routing.registerNavigationRoute("/react_project/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
