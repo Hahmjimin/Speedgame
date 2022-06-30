@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react_project/OneToFifty/precache-manifest.bf4399cbb078595450032542dc3a4055.js"
+  "/react_project/OneToFifty/precache-manifest.f67376b9b9c4892e2c659df2fe75b180.js"
 );
 
 workbox.clientsClaim();

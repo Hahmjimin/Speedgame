@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a3581f4060cc5900dcd5",
+    "revision": "b06c13cd2f2c291a47b0",
     "url": "/react_project/OneToFifty/static/css/main.81c08d61.chunk.css"
   },
   {
-    "revision": "a3581f4060cc5900dcd5",
-    "url": "/react_project/OneToFifty/static/js/main.a3581f40.chunk.js"
+    "revision": "b06c13cd2f2c291a47b0",
+    "url": "/react_project/OneToFifty/static/js/main.b06c13cd.chunk.js"
   },
   {
     "revision": "ad50b51e2836c669a653",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react_project/OneToFifty/static/js/runtime~main.1c1665d8.js"
   },
   {
-    "revision": "e0ee7ad85f4c5bc4dc71aef62fd6108d",
+    "revision": "c5b49863b7ec3f33398c195556c07b32",
     "url": "/react_project/OneToFifty/index.html"
   }
 ];
